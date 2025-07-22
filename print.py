@@ -1,0 +1,6 @@
+print("welcome to the world of Python!")
+print(100)
+print("welcome to python\n")
+print("thank you for your support")
+print("hello", 2026)
+print("end statement", end="bye")
